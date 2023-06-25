@@ -20,11 +20,6 @@ de criar pratos, apagar pratos e gestão dos pedidos.
 <p>Login: cliente@email.com</p>
 <p>Senha: 123456</p>
 
-## 🚀 Como executar o projeto.
-<p>Primeiro passo você precisa clonar esse repositório aqui e também o do frontend, basta usar os comando abaixo:</p>
-<p>$ git clone https://github.com/jdeymisson/api-food-explorer.git - (BACKEND)</p>
-<p>$  - (FRONTEND)</p>
-
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
